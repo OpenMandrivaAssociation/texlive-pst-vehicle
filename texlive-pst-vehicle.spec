@@ -1,6 +1,6 @@
 Name:		texlive-pst-vehicle
 Version:	61438
-Release:	1
+Release:	2
 Summary:	A PSTricks package for rolling vehicles on graphs of mathematical functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-vehicle

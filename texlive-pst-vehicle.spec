@@ -3,7 +3,7 @@ Version:	61438
 Release:	2
 Summary:	A PSTricks package for rolling vehicles on graphs of mathematical functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-vehicle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-vehicle
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-vehicle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-vehicle.doc.r%{version}.tar.xz
